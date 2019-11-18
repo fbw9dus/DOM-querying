@@ -15,7 +15,6 @@ Füge mit JavaScript Styles für das Menü in `index.html` hinzu.
 * Wähle die Warnung unten auf der Seite über die Klasse `warning` aus. Wähle das Element aus ohne qurySelector oder querySelectorAll zu benutzen. Ändere die Textgröße und Schriftart des Elements.
 * Wähle alle _geraden_ `allergy-info`-Elemente aus(jedes zweite). Gib den geraden Elementen eine andere Hintergrundfarbe
 * `allergy-warning` soll als Spalte(Elemente untereinander) in der Mitte der Seite dargestellt werden.
-* The descriptions in the footer should also be styled, e.g. a rounded border with a background color. They should appear in a column for mobile and in a row for desktop.
 * Die Beschreibungen im Footer sollen auch gestyled werden, mit abgerundeten Kanten, Hintergrundfarbe usw. Sie sollen untereinander bei mobile dargestellt werden und Nebeneinander bei desktop.
 
 
